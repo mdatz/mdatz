@@ -10,7 +10,7 @@
 - 👀 I’m interested in ... Everything
 - 🌱 I’m currently learning ... (Almost) Everything
 - 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... Right here
+- 📫 How to reach me ... Right [here](mailto:mdatzyt@gmail.com)
 
 <h2>Repo Showcase</h2>
 <p>
