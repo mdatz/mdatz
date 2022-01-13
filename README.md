@@ -9,6 +9,8 @@
 
 <h2>About Me</h2>
 
+![](https://komarev.com/ghpvc/?username=mdatz)
+
 - 👋 Ciao! I’m @mdatz
 - 👀 I’m interested in ... Everything
 - 🌱 I’m currently learning ... (Almost) Everything
