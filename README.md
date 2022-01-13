@@ -4,6 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatz&amp;show_icons=true&theme=cobalt&layout=compact" alt="GitHub Stats">
 </p>
 
+<h2>About Me</h2>
 - 👋 Hi, I’m @mdatz
 - 👀 I’m interested in ... Everything
 - 🌱 I’m currently learning ... (Almost) Everything
