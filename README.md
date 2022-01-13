@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @mdatz
-- 👀 I’m interested in ... Everything
-- 🌱 I’m currently learning ... (Almost) Everything
-- 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... Right here
 
 <h2>GitHub Stats</h2>
 <p>
@@ -15,4 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=mdatz.github.io&theme=cobalt" alt="Portfolio Page">
 </p>
   
+- 👋 Hi, I’m @mdatz
+- 👀 I’m interested in ... Everything
+- 🌱 I’m currently learning ... (Almost) Everything
+- 💞️ I’m looking to collaborate on ... Anything
+- 📫 How to reach me ... Right here
 
