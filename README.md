@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdatz
 - 👀 I’m interested in ... Everything
-- 🌱 I’m currently learning ... As much as possible
+- 🌱 I’m currently learning ... (Almost) Everything
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... Right here
 
