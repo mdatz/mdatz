@@ -1,4 +1,3 @@
-<h2>GitHub Stats</h2>
 <p>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdatz&theme=omni)](https://git.io/streak-stats)
