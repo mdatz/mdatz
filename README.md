@@ -1,7 +1,7 @@
 <h2>Github Stats</h2>
 <p>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdatz&theme=omni)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdatz&theme=radical)](https://git.io/streak-stats)
   
   <img src="https://github-readme-stats.vercel.app/api?username=mdatz&count_private=true&hide=prs,contribs&amp;show_icons=true&theme=cobalt" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatz&amp;show_icons=true&theme=cobalt&layout=compact" alt="GitHub Stats">
