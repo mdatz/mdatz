@@ -24,7 +24,9 @@
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C/C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a)
 
 <h3> Frameworks </h3>
 
