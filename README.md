@@ -55,9 +55,9 @@
 
 <h3> Other Skills </h3>
 
-![](https://img.shields.io/badge/Library-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=22ddc6)
-![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=22ddc6)
-![](https://img.shields.io/badge/Library-Three.js-informational?style=flat&logo=Three.js&logoColor=white&color=22ddc6)
+![](https://img.shields.io/badge/Library-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=dd2252)
+![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=dd2252)
+![](https://img.shields.io/badge/Library-Three.js-informational?style=flat&logo=Three.js&logoColor=white&color=dd2252)
 
 ![](https://img.shields.io/badge/API-Stripe-informational?style=flat&logo=Stripe&logoColor=white&color=1bb9e4)
 ![](https://img.shields.io/badge/API-OpenAI-informational?style=flat&logo=OpenAI&logoColor=white&color=1bb9e4)
