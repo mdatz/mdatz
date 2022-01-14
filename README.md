@@ -63,8 +63,8 @@
 ![](https://img.shields.io/badge/API-Stripe-informational?style=flat&logo=Stripe&logoColor=white&color=1bb9e4)
 ![](https://img.shields.io/badge/API-OpenAI-informational?style=flat&logo=OpenAI&logoColor=white&color=1bb9e4)
 
-![](https://img.shields.io/badge/Security-TryHackMe-informational?style=flat&logo=TryHackMe&logoColor=white&color=29D67F)
-![](https://img.shields.io/badge/Security-Hack_The_Box-informational?style=flat&logo=HackTheBox&logoColor=white&color=29D67F)
+![](https://img.shields.io/badge/Security-TryHackMe-informational?style=flat&logo=TryHackMe&logoColor=white&color=2b2eff)
+![](https://img.shields.io/badge/Security-Hack_The_Box-informational?style=flat&logo=HackTheBox&logoColor=white&color=ff3943)
 
 ![](https://img.shields.io/badge/Design-Blender-informational?style=flat&logo=Blender&logoColor=white&color=)
 
