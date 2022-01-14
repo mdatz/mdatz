@@ -52,6 +52,7 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=e1513b)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=e1513b)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=e1513b)
 
 <h3> Other Skills </h3>
 
