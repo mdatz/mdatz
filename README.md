@@ -43,10 +43,10 @@
 
 <h3> Databases </h3>
 
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white)
-![](https://img.shields.io/badge/DB-Microsoft_Cosmos-informational?style=flat&logo=MicrosoftAzure&logoColor=white)
-![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=Redis&logoColor=white)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white)
+![](https://img.shields.io/badge/Database-Microsoft_Cosmos-informational?style=flat&logo=MicrosoftAzure&logoColor=white)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=Redis&logoColor=white)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white)
 
 <h3> Operating Systems </h3>
 
