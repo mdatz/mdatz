@@ -77,6 +77,7 @@
 <h2>Repo Showcase</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=mdatz.github.io&theme=cobalt" alt="Portfolio Page">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ENCM509_Final_Project&theme=cobalt" alt="Portfolio Page">
 </p>
   
 
