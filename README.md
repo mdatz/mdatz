@@ -66,7 +66,9 @@
 ![](https://img.shields.io/badge/Security-TryHackMe-informational?style=flat&logo=TryHackMe&logoColor=white&color=2b2eff)
 ![](https://img.shields.io/badge/Security-Hack_The_Box-informational?style=flat&logo=HackTheBox&logoColor=white&color=ff3943)
 
-![](https://img.shields.io/badge/Design-Blender-informational?style=flat&logo=Blender&logoColor=white&color=)
+![](https://img.shields.io/badge/Animation-Blender-informational?style=flat&logo=Blender&logoColor=white&color=)
+![](https://img.shields.io/badge/Design-Inkscape-informational?style=flat&logo=Inkscape&logoColor=white&color=)
+![](https://img.shields.io/badge/Design-GIMP-informational?style=flat&logo=GIMP&logoColor=white&color=)
 
 <h2>Repo Showcase</h2>
 <p>
