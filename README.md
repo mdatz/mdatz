@@ -36,7 +36,7 @@
 
 <h3> Platforms </h3>
 
-![](https://img.shields.io/badge/Platform-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Platform-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=f83593)
 ![](https://img.shields.io/badge/Platform-Docker-informational?style=flat&logo=Docker&logoColor=white&color=f83593)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=f83593)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=f83593)
