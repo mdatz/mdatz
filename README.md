@@ -58,12 +58,14 @@
 ![](https://img.shields.io/badge/Library-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=22ddc6)
 ![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=22ddc6)
 ![](https://img.shields.io/badge/Library-Three.js-informational?style=flat&logo=Three.js&logoColor=white&color=22ddc6)
+
 ![](https://img.shields.io/badge/API-Stripe-informational?style=flat&logo=Stripe&logoColor=white&color=1bb9e4)
 ![](https://img.shields.io/badge/API-OpenAI-informational?style=flat&logo=OpenAI&logoColor=white&color=1bb9e4)
-![](https://img.shields.io/badge/Design-Blender-informational?style=flat&logo=Blender&logoColor=white&color=)
+
 ![](https://img.shields.io/badge/Security-TryHackMe-informational?style=flat&logo=TryHackMe&logoColor=white&color=29D67F)
 ![](https://img.shields.io/badge/Security-Hack_The_Box-informational?style=flat&logo=HackTheBox&logoColor=white&color=29D67F)
 
+![](https://img.shields.io/badge/Design-Blender-informational?style=flat&logo=Blender&logoColor=white&color=)
 
 <h2>Repo Showcase</h2>
 <p>
