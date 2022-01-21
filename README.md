@@ -11,7 +11,7 @@
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdatz&theme=omni" alt="GitHub Stats" width="60%">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdatz&count_private=true&hide=prs,contribs&amp;show_icons=true&theme=cobalt" width="60%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdatz&count_private=true&hide=contribs&amp;show_icons=true&theme=cobalt" width="60%" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatz&amp;show_icons=true&theme=cobalt&layout=compact" width="40%" alt="GitHub Stats">
 </p>
 
