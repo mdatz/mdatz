@@ -20,7 +20,8 @@
 <h3> Languages </h3>
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-C/C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
@@ -73,6 +74,10 @@
 ![](https://img.shields.io/badge/Animation-Blender-informational?style=flat&logo=Blender&logoColor=white&color=)
 ![](https://img.shields.io/badge/Design-Inkscape-informational?style=flat&logo=Inkscape&logoColor=white&color=)
 ![](https://img.shields.io/badge/Design-GIMP-informational?style=flat&logo=GIMP&logoColor=white&color=)
+
+![](https://img.shields.io/badge/Hobby-Hiking-informational?style=flat&logo=AllTrails&logoColor=white&color=)
+![](https://img.shields.io/badge/Hobby-Gaming-informational?style=flat&logo=Steam&logoColor=white&color=)
+![](https://img.shields.io/badge/Hobby-Golf-informational?style=flat&logo=Archicad&logoColor=white&color=)
 
 <h2>Repo Showcase</h2>
 <p>
