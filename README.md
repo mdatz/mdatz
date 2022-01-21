@@ -78,7 +78,6 @@
 
 ![](https://img.shields.io/badge/Hobby-Hiking-informational?style=flat&logo=AllTrails&logoColor=white&color=ee11de)
 ![](https://img.shields.io/badge/Hobby-Gaming-informational?style=flat&logo=Steam&logoColor=white&color=ee11de)
-![](https://img.shields.io/badge/Hobby-Golf-informational?style=flat&logo=Archicad&logoColor=white&color=ee11de)
 
 <hr></hr>
 
