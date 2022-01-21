@@ -10,12 +10,13 @@
 ![](https://komarev.com/ghpvc/?username=mdatz)
 
 - 👋 Ciao! I’m @mdatz
+- 👨‍🎓 B.Sc in Software Engineering (University of Calgary 🦖 2020)
 - 👀 I’m interested in ... Everything
 - 🌱 I’m currently learning ... (Almost) Everything
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... Right [here](mailto:mdatzyt@gmail.com)
 
-<h2> Skills </h2>
+<h2> Things I Have Experience With! </h2>
 
 <h3> Languages </h3>
 
@@ -57,7 +58,7 @@
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=e1513b)
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=iOS&logoColor=white&color=e1513b)
 
-<h3> Other Skills </h3>
+<h3> Other </h3>
 
 ![](https://img.shields.io/badge/Library-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=dd2252)
 ![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=dd2252)
