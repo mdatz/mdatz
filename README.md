@@ -1,20 +1,21 @@
-<h2>Github Stats</h2>
+<h1>👋 Ciao! I’m @mdatz</h1>
+<h2>About Me</h2>
+
+![](https://komarev.com/ghpvc/?username=mdatz)
+
+- 👨‍🎓 BSc. in Software Engineering ⌨ (University of Calgary 🦖 2020)
+- 🤩 I’m interested in ... Everything
+- 🌱 I’m currently learning ... (Almost) Everything
+- 🤝 I’m looking to collaborate on ... Anything
+- 📫 How to reach me ... Right [here](mailto:mdatzyt@gmail.com)
+
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdatz&theme=omni" alt="GitHub Stats" width="60%">
   <img src="https://github-readme-stats.vercel.app/api?username=mdatz&count_private=true&hide=prs,contribs&amp;show_icons=true&theme=cobalt" width="60%" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatz&amp;show_icons=true&theme=cobalt&layout=compact" width="40%" alt="GitHub Stats">
 </p>
 
-<h2>About Me</h2>
-
-![](https://komarev.com/ghpvc/?username=mdatz)
-
-- 👋 Ciao! I’m @mdatz
-- 👨‍🎓 B.Sc in Software Engineering (University of Calgary 🦖 2020)
-- 👀 I’m interested in ... Everything
-- 🌱 I’m currently learning ... (Almost) Everything
-- 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... Right [here](mailto:mdatzyt@gmail.com)
+<hr></hr>
 
 <h2> Things I Have Experience With! </h2>
 
@@ -27,7 +28,7 @@
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a)
-
+  
 <h3> Frameworks </h3>
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=8d3dc2)
@@ -79,6 +80,8 @@
 ![](https://img.shields.io/badge/Hobby-Hiking-informational?style=flat&logo=AllTrails&logoColor=white&color=)
 ![](https://img.shields.io/badge/Hobby-Gaming-informational?style=flat&logo=Steam&logoColor=white&color=)
 ![](https://img.shields.io/badge/Hobby-Golf-informational?style=flat&logo=Archicad&logoColor=white&color=)
+
+<hr></hr>
 
 <h2>Repo Showcase</h2>
 <p>
