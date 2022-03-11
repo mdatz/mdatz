@@ -65,6 +65,7 @@
 
 ![](https://img.shields.io/badge/API-Stripe-informational?style=flat&logo=Stripe&logoColor=white&color=1bb9e4)
 ![](https://img.shields.io/badge/API-OpenAI-informational?style=flat&logo=OpenAI&logoColor=white&color=1bb9e4)
+![](https://img.shields.io/badge/API-Next-Auth-informational?style=flat&logo=Next.js&logoColor=white&color=1bb9e4)
 ![](https://img.shields.io/badge/API-Auth0-informational?style=flat&logo=Auth0&logoColor=white&color=1bb9e4)
 
 ![](https://img.shields.io/badge/Security-TryHackMe-informational?style=flat&logo=TryHackMe&logoColor=white&color=2b2eff)
