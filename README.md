@@ -5,7 +5,7 @@
 
 - 👨‍🎓 BSc. in Software Engineering ⌨ (University of Calgary 🦖 2020)
 - 🤩 I’m interested in ... Everything
-- 🌱 I’m currently learning ... NextJS Web Applications
+- 🌱 I’m currently learning ... NextJS Web Applications, CNN GAN for video framerate interpolation
 - 🤝 I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... Right [here](mailto:mdatzyt@gmail.com)
 
