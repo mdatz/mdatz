@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Platform-Docker-informational?style=flat&logo=Docker&logoColor=white&color=f83593)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=f83593)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=f83593)
-![](https://img.shields.io/badge/IaS-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Cloud-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=f83593)
 
 <h3> Databases </h3>
 
