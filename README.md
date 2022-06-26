@@ -8,7 +8,7 @@
 - 🤩 I’m interested in ... Everything
 - 🌱 I’m currently learning ... NextJS Web Applications, CNN GAN for video framerate interpolation
 - 🤝 I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... Right [here](mailto:mdatzyt@gmail.com)
+- 📫 How to reach me ... [here](mailto:mdatzyt@gmail.com)
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdatz&theme=omni" alt="GitHub Stats" width="60%">
