@@ -71,15 +71,7 @@
 ![](https://img.shields.io/badge/API-NextAuth-informational?style=flat&logo=Next.js&logoColor=white&color=1bb9e4)
 ![](https://img.shields.io/badge/API-Auth0-informational?style=flat&logo=Auth0&logoColor=white&color=1bb9e4)
 
-![](https://img.shields.io/badge/Security-TryHackMe-informational?style=flat&logo=TryHackMe&logoColor=white&color=2b2eff)
-![](https://img.shields.io/badge/Security-Hack_The_Box-informational?style=flat&logo=HackTheBox&logoColor=white&color=ff3943)
-
-![](https://img.shields.io/badge/Animation-Blender-informational?style=flat&logo=Blender&logoColor=white&color=)
-![](https://img.shields.io/badge/Design-Inkscape-informational?style=flat&logo=Inkscape&logoColor=white&color=)
-![](https://img.shields.io/badge/Design-GIMP-informational?style=flat&logo=GIMP&logoColor=white&color=)
-
-![](https://img.shields.io/badge/Hobby-Hiking-informational?style=flat&logo=AllTrails&logoColor=white&color=ee11de)
-![](https://img.shields.io/badge/Hobby-Gaming-informational?style=flat&logo=Steam&logoColor=white&color=ee11de)
+![](https://img.shields.io/badge/Cyber-Security-informational?style=flat&logo=TryHackMe&logoColor=white&color=2b2eff)
 
 <hr></hr>
 
