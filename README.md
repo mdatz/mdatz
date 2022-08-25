@@ -71,7 +71,7 @@
 ![](https://img.shields.io/badge/API-NextAuth-informational?style=flat&logo=Next.js&logoColor=white&color=1bb9e4)
 ![](https://img.shields.io/badge/API-Auth0-informational?style=flat&logo=Auth0&logoColor=white&color=1bb9e4)
 
-![](https://img.shields.io/badge/Cyber-Security-informational?style=flat&logo=TryHackMe&logoColor=white&color=2b2eff)
+![](https://img.shields.io/badge/Hobby-Cyber_Security-informational?style=flat&logo=TryHackMe&logoColor=white&color=2b2eff)
 
 <hr></hr>
 
