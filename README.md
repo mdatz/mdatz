@@ -79,3 +79,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=GPToolkit&theme=cobalt)](https://github.com/mdatz/GPToolkit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=mdatz.github.io&theme=cobalt)](https://mdatz.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=SpiritBomb&theme=cobalt)](https://mdatz.github.io)
