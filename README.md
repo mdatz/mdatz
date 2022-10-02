@@ -27,6 +27,7 @@
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a)
   
@@ -34,6 +35,7 @@
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=8d3dc2)
 ![](https://img.shields.io/badge/Framework-NextJS-informational?style=flat&logo=Next.js&logoColor=white&color=8d3dc2)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=8d3dc2)
 ![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=8d3dc2)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=Express&logoColor=white&color=8d3dc2)
 ![](https://img.shields.io/badge/Framework-ElectronJS-informational?style=flat&logo=Electron&logoColor=white&color=8d3dc2)
