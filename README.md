@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mdatz)
 
-- 👨‍🎓 BSc. in Software Engineering ⌨ (University of Calgary 🦖 2020)
+- 👨‍🎓 BSc. in Software Engineering ⌨
 - 👨‍💻 Currently employed @ ... [Helcim](https://www.helcim.com)
 - 🤩 I’m interested in ... Everything (Especially Nuxt3 releasing....)
 - 🌱 I’m currently learning ... NextJS Web Applications, Qwik web framework
