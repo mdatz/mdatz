@@ -6,6 +6,7 @@
 - 👨‍🎓 BSc. in Software Engineering ⌨
 - 🤩 I’m interested in ... Everything (Especially Nuxt3 releasing....)
 - 🌱 I’m currently learning ... NextJS Web Applications, Qwik web framework, Mitosis Components
+- 👨‍🍳 My most recent creation ... [ghola.ai](https://ghola.ai)
 - 🤝 I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... [here](mailto:mdatzyt@gmail.com)
 
