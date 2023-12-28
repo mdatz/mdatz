@@ -6,7 +6,7 @@
 - 👨‍🎓 BSc. in Software Engineering ⌨
 - 🤩 I’m interested in ... Everything (and anything)
 - 🌱 I’m currently learning ... NextJS Web Applications, Qwik web framework, Mitosis Components
-- 👨‍🍳 My most recent creation ... [ghola.ai](https://ghola.ai)
+- 👨‍🍳 My most recent creation ... [ghola.ai](https://ghola.ai) - [(repo)](https://github.com/mdatz/ghola)
 - 🤝 I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... [here](mailto:mdatzyt@gmail.com)
 
