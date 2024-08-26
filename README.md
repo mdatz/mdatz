@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=8d3dc2)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=8d3dc2)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=Express&logoColor=white&color=8d3dc2)
+![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=8d3dc2)
 ![](https://img.shields.io/badge/Framework-Qwik-informational?style=flat&logo=Qwik&logoColor=white&color=8d3dc2)
 ![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=8d3dc2)
 ![](https://img.shields.io/badge/Framework-ElectronJS-informational?style=flat&logo=Electron&logoColor=white&color=8d3dc2)
@@ -48,10 +49,19 @@
 <h3> Infrastructure </h3>
 
 ![](https://img.shields.io/badge/Platform-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=f83593)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Platform-Expo-informational?style=flat&logo=Expo&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Platform-NGINX-informational?style=flat&logo=NGINX&logoColor=white&color=f83593)
 ![](https://img.shields.io/badge/Platform-Docker-informational?style=flat&logo=Docker&logoColor=white&color=f83593)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Platform-Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=Google&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Windows&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=f83593)
 ![](https://img.shields.io/badge/Cloud-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Monitoring-Elastic-informational?style=flat&logo=Elastic&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Monitoring-DataDog-informational?style=flat&logo=DataDog&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Monitoring-Sentry-informational?style=flat&logo=Sentry&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Deployment-ArgoCD-informational?style=flat&logo=Argo&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Other-Kafka-informational?style=flat&logo=Kafka&logoColor=white&color=f83593)
 
 <h3> Databases </h3>
 
@@ -67,6 +77,7 @@
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=e1513b)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=e1513b)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=e1513b)
+![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=iOS&logoColor=white&color=e1513b)
 
 <h3> Other </h3>
 
