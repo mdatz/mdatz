@@ -99,5 +99,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ghola&theme=cobalt)](https://github.com/mdatz/ghola)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=GPToolkit&theme=cobalt)](https://github.com/mdatz/GPToolkit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=mdatz.github.io&theme=cobalt)](https://mdatz.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=NextAuth-Azure-Login-Template&theme=cobalt)](https://github.com/mdatz/NextAuth-Azure-Login-Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=nginx-template&theme=cobalt)](https://github.com/mdatz/nginx-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-express-template&theme=cobalt)](https://github.com/mdatz/ts-express-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=go-chi-template&theme=cobalt)](https://github.com/mdatz/go-chi-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-deno-template&theme=cobalt)](https://github.com/mdatz/ts-deno-template)
