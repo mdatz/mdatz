@@ -62,6 +62,7 @@
 ![](https://img.shields.io/badge/Monitoring-Sentry-informational?style=flat&logo=Sentry&logoColor=white&color=f83593)
 ![](https://img.shields.io/badge/Deployment-ArgoCD-informational?style=flat&logo=Argo&logoColor=white&color=f83593)
 ![](https://img.shields.io/badge/Other-Kafka-informational?style=flat&logo=Kafka&logoColor=white&color=f83593)
+![](https://img.shields.io/badge/Other-BullMQ-informational?style=flat&logo=BullMQ&logoColor=white&color=f83593)
 
 <h3> Databases </h3>
 
