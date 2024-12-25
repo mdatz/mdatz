@@ -6,7 +6,7 @@
 - 👨‍🎓 BSc. in Software Engineering ⌨
 - 🤩 I’m interested in ... Everything (and anything)
 - 🌱 I’m currently learning ... RAG systems & Agentic AI
-- 👨‍🍳 My most recent creation ... [ghola.ai](https://ghola.ai) - [(repo)](https://github.com/mdatz/ghola) - {Ghola v2 OTW}
+- 👨‍🍳 My most recent creation ... [ghola.ai](https://ghola.ai) - [(repo)](https://github.com/mdatz/ghola) - Ghola V2 OTW 👀
 - 🤝 I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... [here](mailto:mdatzyt@gmail.com)
 
