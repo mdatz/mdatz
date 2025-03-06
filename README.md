@@ -1,4 +1,7 @@
 <h1>👋 Ciao! I’m @mdatz</h1>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h2>About Me</h2>
 
 ![](https://komarev.com/ghpvc/?username=mdatz)
@@ -9,15 +12,24 @@
 - 👨‍🍳 My most recent creation ... [ghola.ai](https://ghola.ai) - [(repo)](https://github.com/mdatz/ghola) - Ghola V2 OTW 👀
 - 🤝 I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... [here](mailto:mdatzyt@gmail.com)
+<br></br>
+<h2>Repo Showcase</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ghola&theme=radical&hide_border=true)](https://github.com/mdatz/ghola)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=GPToolkit&theme=radical&hide_border=true)](https://github.com/mdatz/GPToolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=nginx-template&theme=synthwave&hide_border=true)](https://github.com/mdatz/nginx-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-express-template&theme=synthwave&hide_border=true)](https://github.com/mdatz/ts-express-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=go-chi-template&theme=synthwave&hide_border=true)](https://github.com/mdatz/go-chi-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-deno-template&theme=synthwave&hide_border=true)](https://github.com/mdatz/ts-deno-template)
+<br></br>
+<h2>Stats</h2>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdatz&theme=omni" alt="GitHub Stats" width="60%">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdatz&count_private=true&hide=prs,contribs&amp;show_icons=true&theme=cobalt" width="60%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatz&amp;show_icons=true&theme=cobalt&layout=compact" width="40%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdatz&theme=radical&hide_border=true" alt="GitHub Stats" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdatz&count_private=true&hide=prs,contribs&amp;show_icons=true&theme=radical&hide_border=true" width="60%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatz&amp;show_icons=true&theme=radical&hide_border=true&layout=compact" width="45%" alt="GitHub Stats">
 </p>
-
-<hr></hr>
-
+<br></br>
 <h2> Things I Have Experience With! </h2>
 
 <h3> Languages </h3>
@@ -93,14 +105,7 @@
 ![](https://img.shields.io/badge/API-Auth0-informational?style=flat&logo=Auth0&logoColor=white&color=1bb9e4)
 
 ![](https://img.shields.io/badge/Hobby-Cyber_Security-informational?style=flat&logo=TryHackMe&logoColor=white&color=2b2eff)
+<br></br>
+<h2>Extra Info</h2>
 
-<hr></hr>
-
-<h2>Repo Showcase</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ghola&theme=cobalt)](https://github.com/mdatz/ghola)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=GPToolkit&theme=cobalt)](https://github.com/mdatz/GPToolkit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=nginx-template&theme=synthwave)](https://github.com/mdatz/nginx-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-express-template&theme=synthwave)](https://github.com/mdatz/ts-express-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=go-chi-template&theme=synthwave)](https://github.com/mdatz/go-chi-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-deno-template&theme=synthwave)](https://github.com/mdatz/ts-deno-template)
+![](https://github-trophies.vercel.app/?username=mdatz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
