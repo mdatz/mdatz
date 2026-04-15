@@ -7,6 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=mdatz)
 
 - 👨‍🎓 BSc. in Software Engineering ⌨
+- 🫪 CTO of [Pebble Software](https://pebble.software) among other things
 - 🤩 I’m interested in ... Everything (and anything)
 - 🌱 I’m currently learning ... RAG systems & Agentic AI
 - 👨‍🍳 My most recent creation ... [ghola.ai](https://ghola.ai) - [(repo)](https://github.com/mdatz/ghola) - Ghola V2 OTW 👀
