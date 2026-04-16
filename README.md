@@ -7,9 +7,9 @@
 ![](https://komarev.com/ghpvc/?username=mdatz)
 
 - 👨‍🎓 BSc. in Software Engineering ⌨
-- 🫪 CTO of [Pebble Software](https://pebble.software) among other things
+- ☕ CTO of [Pebble Software](https://pebble.software)
 - 🤩 I’m interested in ... Everything (and anything)
-- 🌱 I’m currently learning ... RAG systems & Agentic AI
+- 🌱 I’m currently learning ... NixOS & UNIX Design
 - 👨‍🍳 My most recent creation ... [ghola.ai](https://ghola.ai) - [(repo)](https://github.com/mdatz/ghola) - Ghola V2 OTW 👀
 - 🤝 I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... [here](mailto:mdatzyt@gmail.com)
@@ -17,11 +17,11 @@
 <h2>Repo Showcase</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ghola&theme=radical&hide_border=true)](https://github.com/mdatz/ghola)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=pokestats&theme=radical&hide_border=true)](https://github.com/mdatz/pokestats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=GPToolkit&theme=radical&hide_border=true)](https://github.com/mdatz/GPToolkit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=nginx-template&theme=synthwave&hide_border=true)](https://github.com/mdatz/nginx-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-express-template&theme=synthwave&hide_border=true)](https://github.com/mdatz/ts-express-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=go-chi-template&theme=synthwave&hide_border=true)](https://github.com/mdatz/go-chi-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-deno-template&theme=synthwave&hide_border=true)](https://github.com/mdatz/ts-deno-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=nginx-template&theme=radical&hide_border=true)](https://github.com/mdatz/nginx-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-express-template&theme=radical&hide_border=true)](https://github.com/mdatz/ts-express-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=go-chi-template&theme=radical&hide_border=true)](https://github.com/mdatz/go-chi-template)
 <br></br>
 <h2>Stats</h2>
 
