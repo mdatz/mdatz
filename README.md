@@ -16,11 +16,11 @@
 <br></br>
 <h2>Repo Showcase</h2>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghola-ai&repo=ghola.ai&theme=radical&hide_border=true)](https://github.com/ghola-ai/ghola.ai)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ghola&theme=radical&hide_border=true)](https://github.com/mdatz/ghola)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=pokestats&theme=radical&hide_border=true)](https://github.com/mdatz/pokestats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=GPToolkit&theme=radical&hide_border=true)](https://github.com/mdatz/GPToolkit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=nginx-template&theme=radical&hide_border=true)](https://github.com/mdatz/nginx-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=ts-express-template&theme=radical&hide_border=true)](https://github.com/mdatz/ts-express-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdatz&repo=go-chi-template&theme=radical&hide_border=true)](https://github.com/mdatz/go-chi-template)
 <br></br>
 <h2>Stats</h2>
